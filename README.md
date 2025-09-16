@@ -1,1 +1,2 @@
-# metkomweek3
+#hari ini belajar git dan github
+##masih bingungk
